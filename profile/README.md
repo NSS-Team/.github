@@ -22,7 +22,7 @@ Access to each repository is limited to approved contributors only.
 
 ## Project Status
 
-The system is currently under active development, led by the ICT Operations team at NUST.  
+The system is currently under active development by a student-led team, working under the guidance of the ICT Directorate at NUST.  
 All contributions are restricted to authorized personnel.
 
 ---
