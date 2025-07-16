@@ -1,28 +1,27 @@
 <h1 align="center">NUST Support System</h1>
 
 <p align="center">
-An internal platform for support and issue resolution within NUST, developed for use by staff and administrative departments.
+A student-led development team at NUST, working under the guidance of the ICT Directorate to design and maintain internal tools for university operations.
 </p>
 
 ---
 
 ## Overview
 
-This GitHub organization manages the ongoing development and maintenance of NUST's internal support system.  
-It is strictly intended for official university operations and is not accessible to students or the public.
+This GitHub organization hosts the ongoing development of NUST's internal support system.  
+The platform is intended exclusively for operational use by university staff and administrative departments. It is not accessible to students or the public.
 
 ---
 
 ## Repositories
 
-The organization consists of multiple repositories representing different components of the system.  
-Access to each repository is limited to approved contributors only.
+This organization contains multiple repositories representing different components of the support system.  
+Access is restricted to approved contributors.
 
 ---
 
 ## Project Status
 
-The system is currently under active development by a student-led team, working under the guidance of the ICT Directorate at NUST.  
-All contributions are restricted to authorized personnel.
+The system is under active development by a dedicated student team, guided by the ICT Directorate at NUST.  
+All contributions are private and limited to authorized personnel.
 
----
